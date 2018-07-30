@@ -7,3 +7,5 @@ Exploratory data analysis with visualizations
 * Data cleaning
 * Feature engineering
 * Modeling
+
+![image-crop](https://user-images.githubusercontent.com/25518749/43421672-064bcac8-9465-11e8-8e6d-0d07f2691482.png)
